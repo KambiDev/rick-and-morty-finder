@@ -32,7 +32,6 @@ main{
     flex: 1;
 }
 
-/*HEADER*/
 .header{
     display: flex;
     justify-content: space-between;
@@ -52,7 +51,6 @@ main{
     padding-left: 1.5em;
 }
 
-/*MAIN*/
 main{
     padding: 2.5em;
     display: flex;
@@ -107,7 +105,6 @@ main .search-section{
     background-color: gray; 
 }
 
-/*FOOTER*/
 footer{
     background-color: #202329;
     color: #FFFFFF;
